@@ -1,0 +1,4 @@
+/home/student/project/build/CMakeFiles/gateway.dir
+/home/student/project/build/CMakeFiles/ecu_node.dir
+/home/student/project/build/CMakeFiles/edit_cache.dir
+/home/student/project/build/CMakeFiles/rebuild_cache.dir
