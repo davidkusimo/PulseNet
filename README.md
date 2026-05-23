@@ -14,13 +14,13 @@ Acts as the central supervisor, listening for heartbeat messages and tracking se
 Service / ECU Processes (3 nodes)
 Each simulated ECU periodically sends heartbeat packets over UDP to indicate it is alive and functioning.
 
+<img width="418" height="336" alt="image" src="https://github.com/user-attachments/assets/950ec8ef-32b5-4e34-8f37-a254da9c037e" />
+
 The monitor:
 
 Tracks heartbeat timestamps per service
 Detects missed heartbeats and service timeouts
 Logs failures and simulates recovery behavior
-
-<img width="418" height="336" alt="image" src="https://github.com/user-attachments/assets/950ec8ef-32b5-4e34-8f37-a254da9c037e" />
 
 <img width="317" height="62" alt="image" src="https://github.com/user-attachments/assets/216aea6d-c139-406b-bb9d-6a8139c8fb78" />
 
