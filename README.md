@@ -20,6 +20,9 @@ Tracks heartbeat timestamps per service
 Detects missed heartbeats and service timeouts
 Logs failures and simulates recovery behavior
 
+<img width="418" height="336" alt="image" src="https://github.com/user-attachments/assets/950ec8ef-32b5-4e34-8f37-a254da9c037e" />
+
+<img width="317" height="62" alt="image" src="https://github.com/user-attachments/assets/216aea6d-c139-406b-bb9d-6a8139c8fb78" />
 
 # Learning Outcomes
 
@@ -30,3 +33,5 @@ Embedded-style networking on Linux
 Inter-process communication using UDP
 Designing resilient software systems
 Writing maintainable, testable C/C++ code
+
+<img width="256" height="31" alt="image" src="https://github.com/user-attachments/assets/ef09fcbe-5626-434f-97f4-6771693b2f49" />
